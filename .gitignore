@@ -1,0 +1,54 @@
+<<<<<<< HEAD
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Local databases
+*.db
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+
+# Weather HTML (для отладки)
+*.html
+=======
+# Default ignored files
+/shelf/
+/workspace.xml
+env/
+>>>>>>> 7da8da2224b06529d5730a3525e587eeaa23937b
